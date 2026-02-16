@@ -3,14 +3,14 @@ I'm a programmer passionate about web development, creative coding, and machine 
 
 ### 🛠 Skills & Tools
 - Languages: Python | JavaScript | Java
-- Web Development: React.js | Tailwind CSS | Express.js | FastAPI
+- Web Development: React.js | Tailwind CSS | Express.js | FastAPI | Flask
 - Databases: MongoDB | PostgreSQL | MySQL
 - Mobile App Development: React Native 
-- Interests: Full-stack development, Operating Systems, Machine learning, and Cybersecurity 
+- Interests: Full-stack development, Devops and Cybersecurity 
 
 ### 🚀 Current Focus
-- Backend Development
-- Meta Frameworks
+- Devops
+- DSA
 
 ### 📫 Contact
 - **Email**: [muhammadsajidy04@gmail.com](mailto:muhammadsajidy04@gmail.com) 
